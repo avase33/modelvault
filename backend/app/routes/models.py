@@ -1,4 +1,4 @@
-# Model API routes -- 2026-06-23 10:35:59
+# Model API routes -- 2026-06-23 10:36:54
 from fastapi import APIRouter, HTTPException, UploadFile, File, Depends
 from typing import List, Optional
 from datetime import datetime
