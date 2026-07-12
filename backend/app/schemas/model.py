@@ -1,4 +1,4 @@
-# Model schema -- 2026-07-12 11:31:20
+# Model schema -- 2026-07-12 11:33:22
 from datetime import datetime
 from typing import Optional, Dict, Any, List
 from pydantic import BaseModel, Field
