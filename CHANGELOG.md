@@ -1,6 +1,6 @@
 # ModelVault Changelog
 
-## [Unreleased] -- 2026-07-12
+## [Unreleased] -- 2026-07-13
 
 ### Added
 - Pydantic schemas: ModelCreate, ModelResponse with framework and status enums
@@ -11,5 +11,5 @@
 - Data drift detection via z-score comparison
 - Semantic versioning utilities: bump major/minor/patch, compare, stability check
 
-## [v1.07121831] -- 2026-07-12
-- Run: 20260712183130
+## [v1.07131637] -- 2026-07-13
+- Run: 20260713163754
