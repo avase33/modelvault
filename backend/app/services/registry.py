@@ -1,4 +1,4 @@
-# Model registry service -- 2026-07-13 20:44:35
+# Model registry service -- 2026-07-13 20:45:26
 import os
 import json
 import joblib
