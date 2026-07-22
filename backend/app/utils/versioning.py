@@ -1,4 +1,4 @@
-# Model versioning utilities -- 2026-07-22 13:17:59
+# Model versioning utilities -- 2026-07-22 13:20:32
 from typing import Tuple
 
 def parse_version(version: str) -> Tuple[int, int, int]:
